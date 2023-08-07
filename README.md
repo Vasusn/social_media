@@ -1,3 +1,4 @@
+![2](https://github.com/Vasusn/social_media/assets/130688960/1f55093f-283d-4639-bc6d-3f640986ac25)
 # Flutter Wall App
 
 This Flutter project is a Twitter clone that allows users to post messages and like posts. It is a simple and fun project to learn about Flutter and its capabilities in building social media-like applications.
@@ -34,8 +35,10 @@ To run the app, follow these steps:
 - Explore the feed and stay connected with the latest updates from other users.
 
 ## Screenshots
-![2](https://github.com/Vasusn/social_media/assets/130688960/5b2f86e4-dd23-4124-8fc2-33643ea99a61)
-![1](https://github.com/Vasusn/social_media/assets/130688960/2b83c5cd-886c-44e6-baed-ad3b768e2047)
+
+![2](https://github.com/Vasusn/social_media/assets/130688960/114ae5e2-5e3b-4bf5-ad58-aa6e50fa9224)
+![1](https://github.com/Vasusn/social_media/assets/130688960/5cc56ad2-6742-4c93-b3e1-e2d3950353ab)
+
 
 ## Contributing
 
